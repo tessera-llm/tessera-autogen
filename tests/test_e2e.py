@@ -3,7 +3,7 @@
 Requires autogen_ext.models.openai + .anthropic installed. Skips gracefully
 without them so test_config.py can still run on lean dev envs.
 
-Real network E2E lives in the integration suite at consolidate-cycle time.
+Real network E2E lives in the integration suite at the next release cycle.
 """
 
 from __future__ import annotations

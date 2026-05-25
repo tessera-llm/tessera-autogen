@@ -26,6 +26,6 @@ not supported; use [tessera-sdk](https://github.com/tessera-llm/tessera-sdk)
 directly with `pyautogen`'s `config_list` mechanism if you're on the
 legacy package.
 
-Publication to PyPI deferred until the next consolidate-cycle. Package
+Publication to PyPI deferred until the next release cycle. Package
 lives in the Tessera monorepo under `packages/tessera-autogen/` for the
 scaffold cycle.
